@@ -1,0 +1,10 @@
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\bin\Debug\FichasPedagogicas.exe.config
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.csproj.ResolveComReference.cache
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\bin\Debug\FichasPedagogicas.exe
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\bin\Debug\FichasPedagogicas.pdb
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.Form1.resources
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.exe
+c:\users\omar\documents\visual studio 2015\Projects\FichasPedagogicas\FichasPedagogicas\obj\Debug\FichasPedagogicas.pdb
